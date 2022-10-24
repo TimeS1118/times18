@@ -1,0 +1,106 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://ruanjiafeng2013.gitee.io/shape/",
+            "path": "index.html",
+            "saved": true,
+            "size": 1191,
+            "children": [
+                {
+                    "url": "https://ruanjiafeng2013.gitee.io/shape/images/biubiubiu.gif",
+                    "path": "img/biubiubiu.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://ruanjiafeng2013.gitee.io/shape/js/love.js",
+                    "path": "js/love.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://ruanjiafeng2013.gitee.io/shape/css/love.css",
+                    "path": "css/love.css",
+                    "saved": true,
+                    "size": 3200,
+                    "children": [
+                        {
+                            "url": "https://ruanjiafeng2013.gitee.io/shape/images/heart.png",
+                            "path": "img/heart.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://ruanjiafeng2013.gitee.io/shape/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "ruanjiafeng2013-gitee-io-e66cbyzj",
+    "info": {
+        "remark": [],
+        "title": "心心-样例图",
+        "domain": "ruanjiafeng2013.gitee.io",
+        "origin": "https://ruanjiafeng2013.gitee.io",
+        "ip": "212.64.63.215",
+        "main": "index.html",
+        "url": "https://ruanjiafeng2013.gitee.io/shape/",
+        "totalSize": "4.39 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://ruanjiafeng2013.gitee.io/shape/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://ruanjiafeng2013.gitee.io/shape/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Mon, 24 Oct 2022 05:45:31 GMT",
+                "content-type": "text/html",
+                "content-length": "1166",
+                "connection": "close",
+                "server": "openresty",
+                "last-modified": "Fri, 09 Apr 2021 07:31:34 GMT",
+                "etag": "\"607002d6-48e\"",
+                "expires": "Tue, 25 Oct 2022 05:45:31 GMT",
+                "cache-control": "max-age=86400",
+                "accept-ranges": "bytes"
+            }
+        },
+        "time": {
+            "start": "2022-10-24T05:45:30.692Z",
+            "end": "2022-10-24T05:45:34.986Z"
+        }
+    },
+    "options": {
+        "url": "https://ruanjiafeng2013.gitee.io/shape/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
